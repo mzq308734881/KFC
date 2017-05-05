@@ -1,0 +1,5 @@
+F:\C#编程\面向对象(控制台)\KFC\KFC.Factory\bin\Debug\KFC.Factory.exe.config
+F:\C#编程\面向对象(控制台)\KFC\KFC.Factory\bin\Debug\KFC.Factory.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC.Factory\bin\Debug\KFC.Factory.pdb
+F:\C#编程\面向对象(控制台)\KFC\KFC.Factory\obj\Debug\KFC.Factory.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC.Factory\obj\Debug\KFC.Factory.pdb

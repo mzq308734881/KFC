@@ -1,0 +1,11 @@
+F:\C#编程\面向对象(控制台)\KFC\KFC\bin\Debug\KFC.exe.config
+F:\C#编程\面向对象(控制台)\KFC\KFC\bin\Debug\KFC.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC\bin\Debug\KFC.pdb
+F:\C#编程\面向对象(控制台)\KFC\KFC\obj\Debug\KFC.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC\obj\Debug\KFC.pdb
+F:\C#编程\面向对象(控制台)\KFC\KFC\bin\Debug\KFC.Builder.exe.config
+F:\C#编程\面向对象(控制台)\KFC\KFC.Builder\bin\Debug\KFC.Builder.exe.config
+F:\C#编程\面向对象(控制台)\KFC\KFC.Builder\bin\Debug\KFC.Builder.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC.Builder\bin\Debug\KFC.Builder.pdb
+F:\C#编程\面向对象(控制台)\KFC\KFC.Builder\obj\Debug\KFC.Builder.exe
+F:\C#编程\面向对象(控制台)\KFC\KFC.Builder\obj\Debug\KFC.Builder.pdb
